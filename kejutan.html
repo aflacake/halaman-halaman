@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
   <body>
+    <!-- <i>jenis font</i> Arial di <i>body</i> harus dipertahankan-->
+    <ul>
+    <li><a class="active" href="rumah.html">Rumah</a></li>
+    <li><a href="#kejutan">Kejutan</a></li>
+    <li><a href="#tentang">Tentang</a></li>
+    </ul>
+    
         <!-- peringatan -->
       <div class="alert1">
         <span class="closebtn"
@@ -20,12 +27,39 @@
     <p>Kejutan yang kamu dapatkan adalah fitur dan isi inovasi terbaru mendadak. Terkadang aku suka membuat perubahan tanpa diminta,
       sebenarnya boleh jika ingin meminta. Biasanya perlu peninjauan atau respon cepat dariku. Pastinya aku memberitahu kamu notif atas peringatan jika ada pembaruan,
       biasanya atau mungkin tidak, <i>WHOOPS</i>. Pastinya selalu menikmati aplikasi yang aku buat!</p>
+
+    <p></p>
   </body>
-  <style>
+  <style>   
     body {
       font-family: Arial;
     }
+    
+    /* bar */
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: pink;
+    }
+    
+    li {
+      float: left;
+    }
 
+    li a {
+      display: flex;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: gray;
+    }
+    
     /*peringtan*/
     .alert1 {
       padding: 14px;
