@@ -16,19 +16,40 @@
       </div>
     
         <!-- Kejutan -->
-    <h1 style="color: purple">Kejutan</h1>
-    <div class="div1">
+    <div style="background-color: gray; padding: 18px;">
+    <h1 style=" "><mark style="color: purple; background-color: white; padding: 4px;">Kejutan</mark></h1>
       <h2 style="color: yellow; text-align: center; background-color: purple; border: 7px solid yellow; padding: 3px; margin: 2px;">Kejutan.. <br>
         siapa yang tidak mau kejutan <br>
-        jika Anda tidak ingin melihatnya sekarang?</h2>
-        </div>
+        jika Anda tidak ingin melihatnya sekarang? <br>
+        <button class="surprice1"><a href="#suprice1.html"><i>Surprice</i></a></button></h2>
 
          <!-- Paragraf -->
-    <p>Kejutan yang kamu dapatkan adalah fitur dan isi inovasi terbaru mendadak. Terkadang aku suka membuat perubahan tanpa diminta,
+    <p style="color: white;">Kejutan yang kamu dapatkan adalah fitur dan isi inovasi terbaru mendadak. Terkadang aku suka membuat perubahan tanpa diminta,
       sebenarnya boleh jika ingin meminta. Biasanya perlu peninjauan atau respon cepat dariku. Pastinya aku memberitahu kamu notif atas peringatan jika ada pembaruan,
       biasanya atau mungkin tidak, <i>WHOOPS</i>. Pastinya selalu menikmati aplikasi yang aku buat!</p>
-
-    <button class="surprice1"><a href="#suprice1.html"><i>Surprice</i></a></button>
+        <p style="text-align: center; font-size: 240%;">✨</p>
+    </div>
+    
+          <!-- Proyek -->
+    <h1><mark style="color: purple; background-color: white; padding: 4px;">Proyek</mark></h1>
+    <table>
+      <tr>
+        <th>Nama Proyek</th>
+        <th>Alamat</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td>Fla Roti</td>
+        <td><a href url="https://sites.google.com/view/flaroti/rumah">Fla Roti chat AI</a></td>
+        <td style="color: green;">Aktif</td>
+      </tr>
+      <tr>
+        <td>Hello World</td>
+        <td><a href url="https://github.com/aflacake/hello-world">Halo Dunia untuk bahasa pemrograman yangku pakai</a></td>
+        <td style="color: green;">Aktif</td>
+      </tr>
+    </table>
+    
   </body>
   <style>   
     body {
@@ -66,32 +87,40 @@
       background-color: purple;
       color: white;
     }
+    
     .closebtn {
-    margin-left: 15px:
-    font-weight: bold;
-    font-size: 22px;
-    line-height: 20px;
-    color: yellow;
-    float: right;
-    cursor: pointer;
+      margin-left: 15px:
+      font-weight: bold;
+      font-size: 22px;
+      line-height: 20px;
+      color: yellow;
+      float: right;
+      cursor: pointer;
     }
+    
     .closebtn:hover {
-    color: white;
+      color: white;
     }
 
     /*Tombol*/
-    .btn {
-      border: 4px solid yellow;
-      background-color: purple;
-      padding: 14px 18px;
-      cursor: pointer;
-      display: inline-block;
-    }
     .btn:hover {
       background: lightgray;
     }
-    .surprice1 {
-      color: yellow;
+    
+    /*Tabel*/
+    table {
+      border-collapse: collapse;
+      width: 30%;
+    }
+
+    tr:nth-child(even) {
+      background-color: lightgray;
+    }
+    
+    th, td {
+      border: 2px solid lightgray;
+      text-align: left;
+      padding: 5px;
     }
   </style>
 </html>
