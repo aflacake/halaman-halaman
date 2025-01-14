@@ -10,9 +10,6 @@ segera hadir:
 - [ ] komentar
 
 Halaman-halaman adalah halaman seperti blog pribadi atau web mengenai pengguna. Disini berisi bilah navigasi memungkinkan cepat 'jalan pintas' menuju halaman-halaman berikutnya tanpa perlu menggulir lebih jauh. Tulisan jatuh bukan teropsesi pada terminal <i>coding</i> angka hijau turun hujan. Lebih tepatnya ke <i>style</i> karena menarik.
-> [!TIP]
->  Mengharuskan ketikan kode mandiri, apabila Anda tertarik menyukai kode dalam repositori ini. Beri sumbangan kecilmu dengan meninggalkan jejak <i>fork</i>.
-> Jangan lupa tinggalkan bekas komentar dalam kode.
 
 ## Apa itu halaman-halaman?
 Repositori halaman dibuat dalam bentuk <i>website</i> seperti bahasa program HTML, CSS, dan PHP. Halaman dirancang untuk profil pribadiku di web, kode ketikan berisi berbahan dasar untuk pemula. Kata kunci mudah dipahami, termasuk penggolongan penataan layar.
@@ -26,3 +23,22 @@ Semua pengembang berketerampilan HTML, CSS, dan PHP bisa membantu beri izin peng
 4. <i>Commmit Change.</i> Di halaman-halaman dari repositoriku, <i>compare</i> (buat <i>pull request</i>)
 
 WOOHOOO! Anda adalah pengembang sekarang 😎
+
+## Tip
+> [!TIP]
+>  Mengharuskan ketikan kode mandiri, apabila Anda tertarik menyukai kode dalam repositori ini. Beri sumbangan kecilmu dengan meninggalkan jejak <i>fork</i>.
+> Jangan lupa tinggalkan bekas komentar dalam kode.
+Contoh:
+```html
+<html>
+    <body>
+    <!-- coretan -->
+  </body>
+</html>
+```
+
+### CLI
+Bagi penggunan CLI
+```
+gh repo clone aflacake/halaman-halaman
+```
