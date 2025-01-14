@@ -10,11 +10,12 @@ segera hadir:
 - [ ] komentar
 
 Halaman-halaman adalah halaman seperti blog pribadi atau web mengenai pengguna. Disini berisi bilah navigasi memungkinkan cepat 'jalan pintas' menuju halaman-halaman berikutnya tanpa perlu menggulir lebih jauh. Tulisan jatuh bukan teropsesi pada terminal <i>coding</i> angka hijau turun hujan. Lebih tepatnya ke <i>style</i> karena menarik.
-> [TIP]
-> Mengaharuskan ketikan kode mandiri
+> [!TIP]
+>  Mengharuskan ketikan kode mandiri, apabila Anda tertarik menyukai kode dalam repositori ini. Beri sumbangan kecilmu dengan meninggalkan jejak <i>fork</i>.
+> Jangan lupa tinggalkan bekas komentar dalam kode.
 
 ## Apa itu halaman-halaman?
-Repositori halaman dibuat dalam bentuk <i>website</i> seperti bahasa program HTML, CSS, dan PHP. Halaman profil pribadiku untuk web, berisi berbahan dasar untuk pemula. Kata kunci mudah dipahami, termasuk penggolongan penataan layar.
+Repositori halaman dibuat dalam bentuk <i>website</i> seperti bahasa program HTML, CSS, dan PHP. Halaman dirancang untuk profil pribadiku di web, kode ketikan berisi berbahan dasar untuk pemula. Kata kunci mudah dipahami, termasuk penggolongan penataan layar.
 
 # Berkontribusi ☕
 Dukung repositori halaman-halaman dengan memberikan sumbangan kontribusimu secara terbuka! <br>
