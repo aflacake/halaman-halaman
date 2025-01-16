@@ -17,12 +17,12 @@ Repositori halaman dibuat dalam bentuk <i>website</i> seperti bahasa program HTM
 # Berkontribusi ☕
 Dukung repositori halaman-halaman dengan memberikan sumbangan kontribusimu secara terbuka! <br>
 Semua pengembang berketerampilan HTML, CSS, dan PHP bisa membantu beri izin pengkodeaan terbaik untuk 'halaman-halaman'. Dengan <i>fork</i> repositori ini untuk memberikan kontribusi, persetujuan akan ditinjau apabila mendukung.
-1. Fork repositori
-2. Tambahankan file atau edit file di lokasi, jangan memindahkan file ke tempat lainnya serta jangan mengacak-acak
-3. Arahkan ke cabang/<i>branch</i> `second`
-4. <i>Commmit Change.</i> Di halaman-halaman dari repositoriku, <i>compare</i> (buat <i>pull request</i>)
+  1. Fork repositori
+  2. Tambahankan file atau edit file di lokasi, jangan memindahkan file ke tempat lainnya serta jangan mengacak-acak
+  3. Arahkan ke cabang/<i>branch</i> `second`
+  4. <i>Commmit Change.</i> Di halaman-halaman dari repositoriku, <i>compare</i> (buat <i>pull request</i>)
 
-WOOHOOO! Anda adalah pengembang sekarang 😎
+WOOHOOO! Anda adalah pengembang sekarang
 
 ## Komentar
 ### HTTPS
@@ -46,11 +46,13 @@ Contoh:
 </html>
 ```
 #### Pesan meninggalkan readme saat <i>fork</i>
-> [!COMMENT] tambahan gambar roti lezat, ukuran 300 pixel
-
-> [!WARNING]
+```md
+> [!COMMENT]
+> tambahan gambar roti lezat, ukuran 300 pixel
+```
+> [!INFORMATION]
 > Jangan menyalin dari hak cipta pemilik lain, apabila Anda sebagai pemegang hak cipta beri tahu batasan penggunaan wajar. <br>
-> <u>Konten penulisan kode ini dibawah lisensi Apache 2.0</u>
+<u>Konten penulisan kode ini dibawah lisensi Apache 2.0</u>
 
 ### CLI
 Bagi penggunan CLI.
