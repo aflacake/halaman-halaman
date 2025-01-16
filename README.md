@@ -24,21 +24,37 @@ Semua pengembang berketerampilan HTML, CSS, dan PHP bisa membantu beri izin peng
 
 WOOHOOO! Anda adalah pengembang sekarang 😎
 
-## Tip
+## Komentar
+### HTTPS
 > [!TIP]
 >  Mengharuskan ketikan kode mandiri, apabila Anda tertarik menyukai kode dalam repositori ini. Beri sumbangan kecilmu dengan meninggalkan jejak <i>fork</i>.
 > Jangan lupa tinggalkan bekas komentar dalam kode.
+
 Contoh:
 ```html
 <html>
     <body>
     <!-- coretan -->
+    <a><img src=""></a>
   </body>
+<style>
+  a {
+   width: 300px;
+   height: 310px;
+ }
+</style>
 </html>
 ```
+#### Pesan meninggalkan readme saat <i>fork</i>
+> [!COMMENT] tambahan gambar roti lezat, ukuran 300 pixel
+
+> [!WARNING]
+> Jangan menyalin dari hak cipta pemilik lain, apabila Anda sebagai pemegang hak cipta beri tahu batasan penggunaan wajar. <br>
+> <u>Konten penulisan kode ini dibawah lisensi Apache 2.0</u>
 
 ### CLI
-Bagi penggunan CLI
+Bagi penggunan CLI.
+Salin kode berikut di CLI:
 ```
 gh repo clone aflacake/halaman-halaman
 ```
