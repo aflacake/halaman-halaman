@@ -1,6 +1,7 @@
 # halaman-halaman
 Selamat datang di halaman-halaman. Ini hanya kode berisi laman web sederhana, berisi
 segera hadir:
+### 🎯 <i>Goals</i>
 - [x] navigasi
 - [x] paragraf
 - [x] jenis berbagai macam huruf, utamakan Arial untuk jenis huruf terselamatkan
@@ -9,10 +10,19 @@ segera hadir:
 - [x] Layout 2-3 bilah
 - [ ] komentar
 
+## Apa itu halaman-halaman?
 Halaman-halaman adalah halaman seperti blog pribadi atau web mengenai pengguna. Disini berisi bilah navigasi memungkinkan cepat 'jalan pintas' menuju halaman-halaman berikutnya tanpa perlu menggulir lebih jauh. Tulisan jatuh bukan teropsesi pada terminal <i>coding</i> angka hijau turun hujan. Lebih tepatnya ke <i>style</i> karena menarik.
 
-## Apa itu halaman-halaman?
 Repositori halaman dibuat dalam bentuk <i>website</i> seperti bahasa program HTML, CSS, dan PHP. Halaman dirancang untuk profil pribadiku di web, kode ketikan berisi berbahan dasar untuk pemula. Kata kunci mudah dipahami, termasuk penggolongan penataan layar.
+
+### Seperti apakah fungsionalnya?
+Halaman-halaman sebagai halaman identitas untuk profil Nazwa di GitHub dengan pengkodean berbahasa HTML, CSS, dan PHP. Seperti tentang Anda, kontak, dan tambahan (seperti proyek sedang perjalanan dikerjakan).
+
+#### Penggunaan
+##### <i>Web developer</i>
+Pengembang khususnya web developer dapat menggunakan kode halaman-halaman sebagai "cantuman di baris kode" asalkan mematuhi ```LISENSI``` penggunaan wajar dan memberi tahu Saya selalu di hargai!
+##### Edukasi
+Pemateri dan pelajar dipersilahkan menggunakan sarana edukasi
 
 # Berkontribusi ☕
 Dukung repositori halaman-halaman dengan memberikan sumbangan kontribusimu secara terbuka! <br>
