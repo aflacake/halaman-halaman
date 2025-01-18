@@ -15,13 +15,13 @@ Halaman-halaman adalah halaman seperti blog pribadi atau web mengenai pengguna. 
 
 Repositori halaman dibuat dalam bentuk <i>website</i> seperti bahasa program HTML, CSS, dan PHP. Halaman dirancang untuk profil pribadiku di web, kode ketikan berisi berbahan dasar untuk pemula. Kata kunci mudah dipahami, termasuk penggolongan penataan layar.
 
-### Seperti apakah fungsionalnya?
+## Seperti apakah fungsionalnya?
 Halaman-halaman sebagai halaman identitas untuk profil Nazwa di GitHub dengan pengkodean berbahasa HTML, CSS, dan PHP. Seperti tentang Anda, kontak, dan tambahan (seperti proyek sedang perjalanan dikerjakan).
 
-#### Penggunaan
-##### <i>Web developer</i>
+### Penggunaan
+#### <i>Web developer</i>
 Pengembang khususnya web developer dapat menggunakan kode halaman-halaman sebagai "cantuman di baris kode" asalkan mematuhi ```LISENSI``` penggunaan wajar dan memberi tahu Saya selalu dihargai!
-##### Edukasi
+#### Edukasi
 Pemateri dan pelajar dipersilahkan menggunakan sarana edukasi
 
 # Berkontribusi ☕
@@ -63,9 +63,9 @@ Tambahan gambar roti lezat, ukuran 300 pixel
 > Jangan menyalin dari hak cipta pemilik lain, apabila Anda sebagai pemegang hak cipta beri tahu batasan penggunaan wajar. <br>
 <u>Konten penulisan kode ini dibawah lisensi Apache 2.0</u>
 
+## Instalasi
 ### CLI
-Bagi penggunan CLI.
-Salin kode berikut di CLI:
+Klon repositori
 ```
 gh repo clone aflacake/halaman-halaman
 ```
