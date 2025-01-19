@@ -66,6 +66,7 @@ Tambahan gambar roti lezat, ukuran 300 pixel
 ## Instalasi
 ### CLI
 Klon repositori
-```
+```bash
 gh repo clone aflacake/halaman-halaman
+cd halaman-halaman
 ```
