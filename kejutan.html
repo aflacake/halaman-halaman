@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <!-- <i>jenis font</i> Arial di <i>body</i> harus dipertahankan-->
+    <ul>
+    <li><a class="active" href="rumah.html">Rumah</a></li>
+    <li><a href="#kejutan">Kejutan</a></li>
+    <li><a href="#tentang">Tentang</a></li>
+    </ul>
+    
+        <!-- peringatan -->
+      <div class="alert1">
+        <span class="closebtn"
+          onclick="this.parentElement.style.display='none';">&times;</span>
+        <strong>!</strong> Membuat kamu terlampar ke halaman ini. Kejutannya sebenarnya tentu saja kejutannya
+      </div>
+    
+        <!-- Kejutan -->
+    <div style="background-color: gray; padding: 18px;">
+    <h1 style=" "><mark style="color: purple; background-color: white; padding: 4px;">Kejutan</mark></h1>
+      <h2 style="color: yellow; text-align: center; background-color: purple; border: 7px solid yellow; padding: 3px; margin: 2px;">Kejutan.. <br>
+        siapa yang tidak mau kejutan <br>
+        jika Anda tidak ingin melihatnya sekarang? <br>
+        <button class="surprice1"><a href="#suprice1.html"><i>Surprice</i></a></button></h2>
+
+         <!-- Paragraf -->
+    <p style="color: white;">Kejutan yang kamu dapatkan adalah fitur dan isi inovasi terbaru mendadak. Terkadang aku suka membuat perubahan tanpa diminta,
+      sebenarnya boleh jika ingin meminta. Biasanya perlu peninjauan atau respon cepat dariku. Pastinya aku memberitahu kamu notif atas peringatan jika ada pembaruan,
+      biasanya atau mungkin tidak, <i>WHOOPS</i>. Pastinya selalu menikmati aplikasi yang aku buat!</p>
+        <p style="text-align: center; font-size: 240%;">✨</p>
+    </div>
+    
+          <!-- Proyek -->
+    <h1><mark style="color: purple; background-color: white; padding: 4px;">Proyek</mark></h1>
+    <table>
+      <tr>
+        <th>Nama Proyek</th>
+        <th>Alamat</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td>Fla Roti</td>
+        <td><a href url="https://sites.google.com/view/flaroti/rumah">Fla Roti chat AI</a></td>
+        <td style="color: green;">Aktif</td>
+      </tr>
+      <tr>
+        <td>Hello World</td>
+        <td><a href url="https://github.com/aflacake/hello-world">Halo Dunia untuk bahasa pemrograman yangku pakai</a></td>
+        <td style="color: green;">Aktif</td>
+      </tr>
+    </table>
+    
+  </body>
+  <style>   
+    body {
+      font-family: Arial;
+    }
+    
+    /* bar */
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: pink;
+    }
+    
+    li {
+      float: left;
+    }
+
+    li a {
+      display: flex;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: gray;
+    }
+    
+    /*peringtan*/
+    .alert1 {
+      padding: 14px;
+      background-color: purple;
+      color: white;
+    }
+    
+    .closebtn {
+      margin-left: 15px:
+      font-weight: bold;
+      font-size: 22px;
+      line-height: 20px;
+      color: yellow;
+      float: right;
+      cursor: pointer;
+    }
+    
+    .closebtn:hover {
+      color: white;
+    }
+
+    /*Tombol*/
+    .btn:hover {
+      background: lightgray;
+    }
+    
+    /*Tabel*/
+    table {
+      border-collapse: collapse;
+      width: 30%;
+    }
+
+    tr:nth-child(even) {
+      background-color: lightgray;
+    }
+    
+    th, td {
+      border: 2px solid lightgray;
+      text-align: left;
+      padding: 5px;
+    }
+  </style>
+</html>
